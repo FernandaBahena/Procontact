@@ -1,25 +1,11 @@
-# Procontact
-Desarollo de proyecto procontacto
-# Título del Proyecto
+# PROCONTACTO
 
-_Evaluación práctica procontacto_
+![procontacto](https://user-images.githubusercontent.com/85090116/120391922-5c861800-c2f5-11eb-8254-90c50ef29890.png)
 
-## Desarollo 🚀
+## EVALUACIÓN PRÁCTICA 🚀
+Resolucion de práctica
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
-### Pre-requisitos 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
-
-### Instalación 🔧
+### INSTALACIÓN 🔧
 
 _1.Instalar el IDE Visual Studio Code_
 > [Visual Studio Code](https://code.visualstudio.com/) Es una aplicación que nos brinda facilidades al momento de generar código. Dentro de Pro Contacto utilizamos Visual Studio Code para los proyectos relacionados a aplicaciones web y mobile. El mismo permite trabajar con varios lenguajes tales como: HTML, CSS, C#, Javascript, APEX (NodeJS, Angular, IONIC, React, Typescript, etc).
@@ -69,7 +55,7 @@ Es un conjunto de principios y patrones de comunicación que ayudan a crear una 
 -	Headers son la parte central de los HTTP requests y responses, y transmiten información acerca del navegador del cliente, de la página solicitada, del servidor, etc. La primera línea es la línea del request, que contiene su información básica (método HTTP, URL y versión).
 -	Content-Type es la propiedad de cabecera (header) usada para indicar el media type (en-US) del recurso. Content-Type dice al cliente que tipo de contenido será retornado.
 
-### EJERCICIO 3 🔩
+### EJERCICIO 3 ⚙️
 
 _Recomendamos previamente entender los conceptos de la sintaxis “json” antes de arrancar con los ejercicios.
 Descargar el POSTMAN (aplicación para realizar request como cliente), adjuntando un screen de resolución para cada ítem:_
@@ -90,7 +76,8 @@ Tip: (Marcar la opción “raw” como body)
 
 ![Ejercicio 3 parte 1](https://user-images.githubusercontent.com/85090116/120257596-22196e00-c256-11eb-9499-454b1e4ce1c0.png)
 
-### EJERCICIO 4 ⌨️
+
+### EJERCICIO 4 ⚙️
 
 _Cambiar el idioma de Trailhead a inglés.
 Realizar los siguientes módulos de Trailhead:
@@ -105,7 +92,7 @@ Liga Trailhead:
 https://trailblazer.me/id/fecevedo
 
 
-## EJERCICIO 5 📦
+## EJERCICIO 5 ⚙️
 
 _Explicar que son conceptualmente, qué datos almacenan en forma estándar y cómo se relacionan el resto (algunos no se relacionan entre sí) cada uno de los siguientes objetos de Salesforce:_
 
@@ -126,7 +113,7 @@ Los campos enumerarlos a través de una lista de texto en el Readme y las relaci
 
 ## EJERCICIO 6 🛠️
 
-_A.	Consultar tu ID haciendo un GET con POSTMAN a este WS: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json![image]_
+A.	Consultar tu ID haciendo un GET con POSTMAN a este WS: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json![image]_
 
 ![id fernanda](https://user-images.githubusercontent.com/85090116/120258668-19c23280-c258-11eb-8ff4-f8e346b17086.png)
 
@@ -243,15 +230,11 @@ N.	¿Qué es un ERP? ¿Salesforce es un ERP?
 Es un conjunto de sistemas de información que permite la integración de ciertas operaciones de una empresa, especialmente las que tienen que ver con la producción, la logística, el inventario, los envíos y la contabilidad. Salesforce es un ERP ya que la gran mayoría de sus productos están enfocados a aumentar considerablemente su producción y las ventas. Esto se lleva a cabo a través de una ágil gestión de procesos internos y cuya principal herramienta es el CRM.
 
 
-## Autores ✒️
+## AUTORES ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+* **Fernanda Bahena Acevedo** 
 
-* **Fernanda Bahena Acevedo** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+## GRACIAS 🎁
 
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Gracias por la oportunidad 🤓.
 
